@@ -1,6 +1,6 @@
 ================================================================================
                         Batch Script Setup and Usage Guide
-================================================================================
+
 
 This script is designed to automate various tasks related to downloading WAR files,
 updating configuration files, and deploying them to a WildFly server.
